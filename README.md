@@ -9,7 +9,7 @@ I’m a Software Engineering student and a Full Stack Developer passionate about
 I love solving complex problems, exploring new technologies, and continuously learning to sharpen my skills. My interests also extend to AI, data structures & algorithms, and software design, which help me become a more versatile developer.
 
 * 🌍  I'm based in Addis Ababa, Ethiopia
-* 🖥️  See my portfolio at [Portfolio-web](http://https://dagmawib.github.io/Portfolio/)
+* 🖥️  See my portfolio at [Portfolio-web](https://dagmawib.github.io/Portfolio/)
 * ✉️  You can contact me at [dagmawibelayneh14@gmail.com](mailto:dagmawibelayneh14@gmail.com)
 * 👥  I'm looking to collaborate on Any projects
 
