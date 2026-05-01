@@ -30,7 +30,7 @@ I’m also deeply interested in **AI, Data Structures & Algorithms, and Software
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dagmawib&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dagib&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dagmawib&layout=compact&theme=tokyonight" />
 </p>
