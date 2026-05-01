@@ -27,14 +27,6 @@ I’m also deeply interested in **AI, Data Structures & Algorithms, and Software
 
 ---
 
-##  What I’m Currently Exploring
-
-* Advanced **Next.js** architecture
-* **Machine Learning & AI fundamentals**
-* **System design & scalable applications**
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -51,10 +43,10 @@ I’m also deeply interested in **AI, Data Structures & Algorithms, and Software
   <a href="mailto:dagmawibelayneh14@gmail.com">
     <img src="https://img.shields.io/badge/Email-Dagmawi-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="#">
+  <a href="https://dagmawib.github.io/Portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=google-chrome" />
   </a>
-  <a href="#">
+  <a href="https://www.linkedin.com/in/dagi-belay1430/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
